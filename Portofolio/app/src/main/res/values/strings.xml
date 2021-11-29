@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tentang">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate est imperdiet erat dignissim, quis dignissim diam efficitur. Vivamus placerat feugiat laoreet. Nunc volutpat, neque ut ullamcorper cursus, felis orci consectetur sem, quis placerat ligula erat ac lacus. Fusce ultricies mauris erat, rutrum venenatis erat gravida quis. Suspendisse potenti. Nulla facilisi. Sed enim elit, volutpat accumsan luctus ut, bibendum pharetra est. Duis pretium lectus tortor, ornare sollicitudin lectus mollis eget.</string>
+
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+
+</resources>
